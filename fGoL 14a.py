@@ -1,7 +1,7 @@
-print('13g jGoL filin') # NB click in terminal after starting, before answering question
+print('fGoL') # NB click in terminal after starting, before answering question
 # good to toggle panel position (to right) via View... Appearance... ; then can toggle it on/off CMD-J
 rows = 60; cols = 80
-vquiet = True # true prevents one-line print of pop and steps when quiet (quiet is set by user input of steps)
+vquiet = True # true prevents one-line print of pop and steps when quiet (quiet is set by user input of steps at end of code)
 roll = 0 # set to 1 for cyclic field, 0 for dead boundary which is better for large fields re gliders
 
 #seedfile='Grpentomino.txt' # methuselah gives 5 gliders then eg 176 at 751 stabln 110+6 at 1103 with 100R 150C
